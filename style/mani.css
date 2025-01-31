@@ -1,0 +1,72 @@
+
+.ul li a {
+    color: #011627;
+}
+
+.border {
+    border-bottom: 2px solid #E71D36;
+    padding-bottom: 8px;
+    box-sizing: border-box;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.heading {
+    font-size: 64px;
+    color: #011627;
+}
+
+.heading span {
+    color: #E71D36;
+}
+
+.heading p {
+    font-size: 26px;
+}
+
+.para {
+    font-size: 16px;
+}
+
+.section-baner {
+    display: flex;
+    align-items: center;
+}
+
+.heading-baner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 41px;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-video {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.btn-video a {
+    text-decoration: underline;
+    color: #E71D36;
+}
+
+.play-btn {
+    display: flex;
+    align-items: center;
+    gap: 33px;
+}
+.menu-mobil{
+    display: none;
+
+}
