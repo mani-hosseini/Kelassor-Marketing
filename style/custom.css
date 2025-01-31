@@ -4,8 +4,7 @@
     margin: 0;
     padding: 0;
 }
-
-body {
+body{
     font-family: "Inter", serif;
 }
 
@@ -50,3 +49,4 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
