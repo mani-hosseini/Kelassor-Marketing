@@ -1,0 +1,8 @@
+@media only screen and (max-width: 992px) {
+    .first-section {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 0;
+    }
+}
