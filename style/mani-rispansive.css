@@ -1,0 +1,54 @@
+@media only screen and (max-width: 992px) {
+    .section-header {
+        width: 100%;
+        padding: 0 5px;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .menu-mobil {
+        display: flex;
+        align-items: center;
+        background-color: red;
+        padding: 4px;
+    }
+
+    .container {
+        padding: 5px 10px;
+    }
+
+    .section-baner {
+        display: block;
+        margin-top: 35px;
+    }
+
+    .heading {
+        font-size: 24px;
+    }
+
+    .heading-baner {
+        gap: 20px;
+    }
+
+    .heading-baner p {
+        font-size: 12px;
+    }
+
+    .baner-para img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .baner-para {
+        display: flex;
+        align-items: center;
+        align-self: center;
+    }
+
+    .btn {
+        width: 130px;
+        height: 30px;
+    }
+}
