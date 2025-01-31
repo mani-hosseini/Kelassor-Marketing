@@ -6,6 +6,8 @@
 }
 body{
     font-family: "Inter", serif;
+    background: linear-gradient(rgba(255, 229, 229, 1), rgba(245, 255, 254, 1), rgba(252, 243, 255, 1), rgba(255, 244, 229, 1));
+
 }
 
 .container {
@@ -20,10 +22,6 @@ li {
 a {
     text-decoration: none;
     color: blue;
-}
-
-header {
-    background-image: url("../img/Rectangle 2.png");
 }
 
 .header-section {
